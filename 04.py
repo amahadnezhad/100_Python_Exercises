@@ -14,9 +14,10 @@ print(a + b)
      the value assigned to a  was of string type (i.e., text) while the value of b  was an integer (i.e., whole number)
      , and you cannot add strings with integers.
      
-     a = "1"
-     b = 2
-     print(int(a) + b)
+     Right Answer:
+         a = "1"
+         b = 2
+         print(int(a) + b)
      
 """
 
