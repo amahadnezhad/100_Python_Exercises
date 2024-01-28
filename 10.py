@@ -1,5 +1,5 @@
 """
-Exercise 9
+Exercise 10
 Question: Complete the script so that it prints out a list slice containing letters a, c, e, g, and i.
 
 Expected output:
