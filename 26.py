@@ -1,6 +1,6 @@
 """
 Exercise 26
-Question: Make a script that prints out letters of the English alphabet from a to z, one letter per line in the terminal.
+Question: Make a script that prints out numbers from 1 to 10
 
 Expected output:
 1
