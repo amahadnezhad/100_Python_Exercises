@@ -1,17 +1,18 @@
 """
-Exercise 25
+Exercise 26
 Question: Make a script that prints out letters of the English alphabet from a to z, one letter per line in the terminal.
 
 Expected output:
-a
-b
-c
+1
+2
+3
 .
 .
-z
+.
+8
+9
+10
 """
-# Answer
-import string
 
-for letter in string.ascii_lowercase:
-    print(letter)
+for i in range(1, 11):
+    print(i)
