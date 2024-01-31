@@ -17,4 +17,4 @@ c = 3
 print(foo())
 
 # Answer
-3
+#   3
