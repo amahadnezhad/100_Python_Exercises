@@ -7,7 +7,7 @@ Question: The script is supposed to output the cosine of angle 1 radian, but ins
 Expected output:
     0.5403023058681397
 """
-
+# Answer
 import math
 # print(math.cosine(1)) # Attribute Error
 print(math.cos(1))
