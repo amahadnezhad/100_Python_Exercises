@@ -1,6 +1,6 @@
 """
-Exercise 43
-Question: Question: Create a script that generates a list where all letters of the English alphabet are listed
+Exercise 44
+Question: Create a script that generates a list where all letters of the English alphabet are listed
                     three in each line.
 
 Expected output:
