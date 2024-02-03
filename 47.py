@@ -1,5 +1,5 @@
 """
-Exercise 46
+Exercise 47
 Question: Create a script that iterates through text files and checks if strings p, y, t, h, o, or n are found
           in the text file's content. If any of those strings is found, append that string to a list.
 """
